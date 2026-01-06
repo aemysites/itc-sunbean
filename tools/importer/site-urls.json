@@ -1,0 +1,34 @@
+{
+  "originUrl": "https://sunbean.in",
+  "aborted": false,
+  "lastCrawled": "https://sunbean.in/",
+  "urls": [
+    {
+      "url": "https://sunbean.in/factory-address.html",
+      "source": "SITEMAPS",
+      "targetPath": "/factory-address",
+      "id": "c523d267d3eecb226f82fcd1d35419e2217b8a7d"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sunbean.in/",
+      "status": "301 Moved Permanently Redirect: https://sunbean.in/factory-address.html"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":1}",
+  "error": null
+}
